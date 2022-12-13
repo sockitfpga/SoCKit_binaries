@@ -12,7 +12,7 @@ Copy the rbf binaries into the _Arcade, _Computer, _Other, _Console folders of t
 
 JOTEGO cores for SoCkit MiSTer platform can be found at [JTBIN](https://github.com/jotego/jtbin/tree/master/sockit)
 
-More MiSTer compatible and up to date cores can be found at [Noemi's GitHub](https://github.com/noemi-abril)
+More MiSTer compatible and up to date cores can be found at [Noemi's GitHub](https://github.com/noemi-abril) and [Patreon](https://www.patreon.com/noemiabril)
 
 ### Direct cores
 
